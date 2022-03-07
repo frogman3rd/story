@@ -2,3 +2,6 @@
 :ql
 :q
 startin to learn
+
+space is infinit
+
